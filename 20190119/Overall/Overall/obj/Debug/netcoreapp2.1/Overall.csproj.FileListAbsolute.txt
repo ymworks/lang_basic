@@ -1,0 +1,11 @@
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190119/Overall/Overall/obj/Debug/netcoreapp2.1/Overall.csprojAssemblyReference.cache
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190119/Overall/Overall/obj/Debug/netcoreapp2.1/Overall.csproj.CoreCompileInputs.cache
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190119/Overall/Overall/obj/Debug/netcoreapp2.1/Overall.AssemblyInfoInputs.cache
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190119/Overall/Overall/obj/Debug/netcoreapp2.1/Overall.AssemblyInfo.cs
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190119/Overall/Overall/bin/Debug/netcoreapp2.1/Overall.deps.json
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190119/Overall/Overall/bin/Debug/netcoreapp2.1/Overall.runtimeconfig.json
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190119/Overall/Overall/bin/Debug/netcoreapp2.1/Overall.runtimeconfig.dev.json
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190119/Overall/Overall/bin/Debug/netcoreapp2.1/Overall.dll
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190119/Overall/Overall/bin/Debug/netcoreapp2.1/Overall.pdb
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190119/Overall/Overall/obj/Debug/netcoreapp2.1/Overall.dll
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190119/Overall/Overall/obj/Debug/netcoreapp2.1/Overall.pdb
