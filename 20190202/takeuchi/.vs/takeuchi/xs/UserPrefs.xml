@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6E29AEBE-7590-4F81-AE21-FACCD146BF1B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="takeuchi/Program.cs">
+    <Files>
+      <File FileName="takeuchi/Program.cs" Line="9" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.takeuchi FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
