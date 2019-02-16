@@ -1,0 +1,11 @@
+/Users/yuna/Desktop/lang_basic/20190216/takeuchi/takeuchi/bin/Debug/netcoreapp2.0/takeuchi.deps.json
+/Users/yuna/Desktop/lang_basic/20190216/takeuchi/takeuchi/bin/Debug/netcoreapp2.0/takeuchi.runtimeconfig.json
+/Users/yuna/Desktop/lang_basic/20190216/takeuchi/takeuchi/bin/Debug/netcoreapp2.0/takeuchi.runtimeconfig.dev.json
+/Users/yuna/Desktop/lang_basic/20190216/takeuchi/takeuchi/bin/Debug/netcoreapp2.0/takeuchi.dll
+/Users/yuna/Desktop/lang_basic/20190216/takeuchi/takeuchi/bin/Debug/netcoreapp2.0/takeuchi.pdb
+/Users/yuna/Desktop/lang_basic/20190216/takeuchi/takeuchi/obj/Debug/netcoreapp2.0/takeuchi.csprojAssemblyReference.cache
+/Users/yuna/Desktop/lang_basic/20190216/takeuchi/takeuchi/obj/Debug/netcoreapp2.0/takeuchi.csproj.CoreCompileInputs.cache
+/Users/yuna/Desktop/lang_basic/20190216/takeuchi/takeuchi/obj/Debug/netcoreapp2.0/takeuchi.AssemblyInfoInputs.cache
+/Users/yuna/Desktop/lang_basic/20190216/takeuchi/takeuchi/obj/Debug/netcoreapp2.0/takeuchi.AssemblyInfo.cs
+/Users/yuna/Desktop/lang_basic/20190216/takeuchi/takeuchi/obj/Debug/netcoreapp2.0/takeuchi.dll
+/Users/yuna/Desktop/lang_basic/20190216/takeuchi/takeuchi/obj/Debug/netcoreapp2.0/takeuchi.pdb
