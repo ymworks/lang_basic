@@ -1,0 +1,11 @@
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190216/kim/20190216_csharp/20190216_csharp/bin/Debug/netcoreapp2.1/20190216_csharp.deps.json
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190216/kim/20190216_csharp/20190216_csharp/bin/Debug/netcoreapp2.1/20190216_csharp.runtimeconfig.json
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190216/kim/20190216_csharp/20190216_csharp/bin/Debug/netcoreapp2.1/20190216_csharp.runtimeconfig.dev.json
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190216/kim/20190216_csharp/20190216_csharp/bin/Debug/netcoreapp2.1/20190216_csharp.dll
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190216/kim/20190216_csharp/20190216_csharp/bin/Debug/netcoreapp2.1/20190216_csharp.pdb
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190216/kim/20190216_csharp/20190216_csharp/obj/Debug/netcoreapp2.1/20190216_csharp.csprojAssemblyReference.cache
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190216/kim/20190216_csharp/20190216_csharp/obj/Debug/netcoreapp2.1/20190216_csharp.csproj.CoreCompileInputs.cache
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190216/kim/20190216_csharp/20190216_csharp/obj/Debug/netcoreapp2.1/20190216_csharp.AssemblyInfoInputs.cache
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190216/kim/20190216_csharp/20190216_csharp/obj/Debug/netcoreapp2.1/20190216_csharp.AssemblyInfo.cs
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190216/kim/20190216_csharp/20190216_csharp/obj/Debug/netcoreapp2.1/20190216_csharp.dll
+/Users/woohyeok.kim/Desktop/study/lang_basic/20190216/kim/20190216_csharp/20190216_csharp/obj/Debug/netcoreapp2.1/20190216_csharp.pdb
